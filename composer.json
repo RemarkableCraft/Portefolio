@@ -1,0 +1,17 @@
+{
+    "name": "remarkable-craft/portefolio",
+    "description": "Portefolio d'Estelle MASSE, Designer-Développeuse Web.",
+    "authors": [
+        {
+            "name": "Estelle MASSE by Remarkable Craft"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "Controller\\": "controller/",
+            "Core\\": "core/"
+        }
+    },
+    "require": {}
+}
